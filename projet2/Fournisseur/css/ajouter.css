@@ -1,0 +1,108 @@
+*{margin: 0; padding: 0;}
+body {background-image: url('../../chamb/images/bg_main.png');}
+
+.titre
+{
+    position: absolute;
+	left: -60%;
+	top: 40%;
+	font-family: 'Raleway', sans-serif;
+	font-weight: 300;
+	font-size: 20px;
+	color: rgba(255, 255, 255, 0.5);
+}
+.rec
+{
+    background: rgba(0, 0, 0, 0.4);
+    border-radius: 60px;
+    width: 50%;
+    height: 90%;
+    position: absolute;
+    top: 5%;
+    right: 210px;
+}
+
+
+table
+{
+    position: relative;
+    top: 2%;
+}
+
+td
+{
+    padding: 0 15px;
+}
+
+tr
+{
+    display: block;
+	font-family: 'Raleway', sans-serif;
+	text-decoration: none;
+	color: #ffffff;
+	font-size: 35px;
+	padding: 10px 5px;
+	margin: 5px;
+    position: relative;
+    left: 25%;
+}
+.nom
+{
+    position: relative;
+    left: 60%;
+}
+
+.prenom
+{
+    position: relative;
+    left: 32%;
+}
+
+.cin
+{
+    position: relative;
+    left: 72.5%;
+}
+
+.adresse
+{
+    position: relative;
+    left: 28.5%;
+}
+
+.telephone
+{
+    position: relative;
+    left: 7%;
+}
+
+.boutons
+{
+    position: relative;
+    left: 30%;
+    top: 5%;
+}
+
+.boutons input:hover
+{
+    color:#1e96ff;
+}
+
+.email
+{
+    position: relative;
+    left: 52%;
+}
+
+.rec_modifier
+{
+    background: rgba(0, 0, 0, 0.4);
+    border-radius: 60px;
+    width: 50%;
+    height: 80%;
+    position: absolute;
+    top: 10%;
+    right: 210px;
+}
+
+
